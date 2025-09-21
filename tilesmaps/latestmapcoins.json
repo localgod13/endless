@@ -3,8 +3,7 @@
     {
      "export":
         {
-         "format":"json",
-         "target":"..\/endless\/endless.json"
+         "format":"json"
         }
     },
  "height":20,
@@ -4506,16 +4505,6 @@
                  "id":0
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":0,
-         "firstgid":219,
-         "margin":0,
-         "name":"decor",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":1,
-         "tilewidth":1
         }],
  "tilewidth":32,
  "type":"map",
